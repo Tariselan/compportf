@@ -1,6 +1,23 @@
+/* 
+::COLOUR PALETTE::
+
+=-=-=-=-=-=
+||#0D0D0D||
+=-=-=-=-=-=
+||#4D4D4D||
+=-=-=-=-=-=
+||#EFEFEF||
+=-=-=-=-=-=
+
+*/
 body {
     font-family: 'Courier New', Courier, monospace;
+    color: #4D4D4D;
+    background-color: #ECECEC;
 }
 h1 {
     text-align: center;
+}
+h1, h3, h4 {
+    color: #0D0D0D;
 }
