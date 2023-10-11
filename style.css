@@ -26,3 +26,10 @@ a {
     color: #3156bb;
     cursor: pointer;
 }
+table, tr, td, th {
+    color: black;
+    border: 1px solid #0D0D0D;
+}
+th {
+    width: 130px;
+}
